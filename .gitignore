@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains IDE（Android Studio / IntelliJ）
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# 一時ファイル
+*.tmp
+*~
+
+# Git 作業残骸（コンフリクト解決・パッチ適用時に生成）
+*.orig
+*.rej
+
+# 注意: 画像・スクリーンショットは成果物のため、拡張子による除外は追加しない
